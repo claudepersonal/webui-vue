@@ -86,7 +86,7 @@
         "simple-git-hooks": "2.13.1",
         "tsx": "4.21.0",
         "typescript": "5.9.3",
-        "vite": "6.4.1",
+        "vite": "6.4.5",
         "vite-plugin-compression": "0.5.1",
         "vite-svg-loader": "5.1.0",
         "vitest": "3.2.4",
